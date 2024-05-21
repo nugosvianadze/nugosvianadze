@@ -15,7 +15,7 @@ I'm a **Python Developer** currently looking for new job opportunities. I specia
 ## Projects
 - **Childes**: A platform for managing child-related data.
 - **Elections**: An app for election data analysis.
-- **E-COMM**: An e-commerce platform.
+- **E-Comm**: An e-commerce platform.
 - **Blog**: A personal blog engine.
 - **Startups**: Various startup projects.
 
@@ -26,6 +26,10 @@ I'm a **Python Developer** currently looking for new job opportunities. I specia
 ## Hobbies
 - ⚽ Football
 - 🎮 Video Games
+
+## GitHub Stats
+![Nugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugosvianadze&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugosvianadze&layout=compact&theme=radical)
 
 ---
 
