@@ -1,7 +1,7 @@
 # Hi, I'm Nugo Svianadze 👋
 
 ## About Me
-I'm a **Python Developer** currently looking for new job opportunities. I specialize in web development and web scraping.
+I'm a **Python Developer**
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,6 +18,9 @@ I'm a **Python Developer** currently looking for new job opportunities. I specia
 - **E-Comm**: An e-commerce platform.
 - **Blog**: A personal blog engine.
 - **Startups**: Various startup projects.
+- **Bubz AI**: AI Customer support
+- **WPCL**: World Prompting Champions League
+- **Mothership**: Crypto project, AI token launching on Solana
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nugo.svianadze123@gmail.com)
