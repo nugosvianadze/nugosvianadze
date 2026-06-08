@@ -14,7 +14,7 @@ I'm a **Python Developer**
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ## Projects
-- **Childes**: A platform for managing child-related data.
+- **Childes**: A platform aims to study various aspects of typical language acquisition of Georgian-speaking children using a structured platform for collecting, documenting, coding and analyzing language samples.
 - **Elections**: An app for election data analysis.
 - **E-Comm**: An e-commerce platform.
 - **Blog**: A personal blog engine.
